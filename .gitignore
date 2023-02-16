@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Add dataset dictionary to exclude datasets from git
+/dataset/*
