@@ -130,6 +130,9 @@ dmypy.json
 
 # Add dataset dictionary to exclude datasets from git
 /dataset/*
+rvl-cdip-small-200
+vl-cdip-small-200/*
+*.zip
 
 # Local Python env
 /env
