@@ -130,3 +130,9 @@ dmypy.json
 
 # Add dataset dictionary to exclude datasets from git
 /dataset/*
+
+# Local Python env
+/env
+
+# GCP service account key
+documents-processing-demo*.json
