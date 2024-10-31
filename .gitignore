@@ -135,7 +135,11 @@ vl-cdip-small-200/*
 *.zip
 
 # Local Python env
-/env
+/env*
 
 # GCP service account key
 documents-processing-demo*.json
+
+# Data
+Data
+invoice*
