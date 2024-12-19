@@ -143,3 +143,6 @@ documents-processing-demo*.json
 # Data
 Data
 invoice*
+
+wandb/*
+*.pdf

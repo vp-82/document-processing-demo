@@ -1,0 +1,47 @@
+{
+  "image_path": "/Users/vaclavpechtor/Code/home_projects/document-processing-demo/demo_documents/50001213_KSU_A-Technik_320000220006912023_1.png",
+  "annotations": {
+    "0": {
+      "address": {
+        "box": [
+          39.0,
+          161.0,
+          294.0,
+          266.0
+        ],
+        "text": "Strassenverkehrsamt des | Kantons Zurich | UetTibergstr. 301 | Postfach 8479 | 8036 Zurich",
+        "field": "address"
+      },
+      "total_amount": {
+        "box": [
+          606.0,
+          361.0,
+          676.0,
+          387.0
+        ],
+        "text": "1,134.00",
+        "field": "total_amount"
+      },
+      "invoice_date": {
+        "box": [
+          452.0,
+          300.0,
+          543.0,
+          333.0
+        ],
+        "text": "01.03.2023",
+        "field": "invoice_date"
+      },
+      "invoice_number": {
+        "box": [
+          152.0,
+          288.0,
+          223.0,
+          317.0
+        ],
+        "text": "708548",
+        "field": "invoice_number"
+      }
+    }
+  }
+}
